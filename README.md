@@ -1,3 +1,3 @@
 # Project Name: FinanciaLit
 #### Video Demo: https://youtu.be/vdzSX-gz1XY
-#### Description: A website created using HTML & CSS about a financial literacy book written by a finance teacher at my school.
+#### Description: I created a website using HTML & CSS about a financial literacy book written by a finance teacher at my school, 'FinanciaLit'. He had written it in hopes of keeping people financially educated during the times of covid starting (2020). He listed the book on Amazon which is linked using the order button, and there is an about and author section explaining the book and a little bit about the author respectively. It was made using a red and white color theme as the book also followed it, and it is organized evenly and in an aesthetically pleasing manner. 
